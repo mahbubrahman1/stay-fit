@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+body {
+  font-family: 'Varela Round', sans-serif;
+}
+
 .hero {
   position: absolute;
   left: 0;
@@ -16,4 +23,12 @@
 .heading h1 {
   font-size: 4rem;
   color: whitesmoke;
+  font-family: 'Paytone One', sans-serif;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+}
+
+.heading p {
+  color: whitesmoke;
+  font-size: 1.3rem;
 }

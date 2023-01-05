@@ -7,7 +7,9 @@ const Hero = () => {
         <div>
             <img className='hero' src={HeroImage} alt="" />
             <div className='heading'>
-                <h1>GET FIT WITH US</h1>
+                <h1>Get Fit With Us</h1>
+                <p>Empower yourself to make the changes you need to make</p>
+                <button className='btn btn-primary'>SignUp Today</button>
             </div>
         </div>
     )
