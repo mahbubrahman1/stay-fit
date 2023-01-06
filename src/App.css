@@ -5,6 +5,10 @@ body {
   font-family: 'Varela Round', sans-serif;
 }
 
+.hero-section {
+  min-height: 63vh;
+}
+
 .hero {
   position: absolute;
   left: 0;
@@ -31,4 +35,9 @@ body {
 .heading p {
   color: whitesmoke;
   font-size: 1.3rem;
+}
+
+.popular-classes h2 {
+  font-family: 'Paytone One', sans-serif;
+  text-transform: uppercase;
 }

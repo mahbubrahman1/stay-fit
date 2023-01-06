@@ -4,7 +4,7 @@ import '../App.css';
 
 const Hero = () => {
     return (
-        <div>
+        <div className='hero-section'>
             <img className='hero' src={HeroImage} alt="" />
             <div className='heading'>
                 <h1>Get Fit With Us</h1>
