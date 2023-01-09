@@ -28,7 +28,17 @@ const classes = [
         id: 6,
         image: "course-images/chest.jpg",
         title: "Chest"
-    }
+    },
+    {
+        id: 7,
+        image: "course-images/chest.jpg",
+        title: "Chest"
+    },
+    {
+        id: 8,
+        image: "course-images/chest.jpg",
+        title: "Chest"
+    },
 ]
 
 export default classes;
